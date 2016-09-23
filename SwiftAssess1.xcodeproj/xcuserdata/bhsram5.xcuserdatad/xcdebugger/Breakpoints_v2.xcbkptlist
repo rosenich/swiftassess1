@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftAssess1/ViewController.swift"
+            timestampString = "496290619.433677"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftAssess1.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SwiftAssess1.ViewController"
+                  moduleName = "SwiftAssess1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram5/Desktop/Prog3:Projects/SwiftAssess1/SwiftAssess1/ViewController.swift"
+                  timestampString = "496290831.384627"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftAssess1.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SwiftAssess1.ViewController"
+                  moduleName = "SwiftAssess1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram5/Desktop/Prog3:Projects/SwiftAssess1/SwiftAssess1/ViewController.swift"
+                  timestampString = "496290831.387671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftAssess1.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SwiftAssess1.ViewController&gt;"
+                  moduleName = "SwiftAssess1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram5/Desktop/Prog3:Projects/SwiftAssess1/SwiftAssess1/ViewController.swift"
+                  timestampString = "496290831.390578"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftAssess1.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SwiftAssess1.ViewController&gt;"
+                  moduleName = "SwiftAssess1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhsram5/Desktop/Prog3:Projects/SwiftAssess1/SwiftAssess1/ViewController.swift"
+                  timestampString = "496290831.39339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
