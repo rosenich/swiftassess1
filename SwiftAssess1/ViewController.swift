@@ -4,9 +4,27 @@
 
 import UIKit
 
+var tapCount=0
+
 class ViewController: UIViewController {
     
     @IBOutlet weak var myLabel2: UILabel!
+    
+    
+    
+    @IBAction func CountingButton(_ sender: AnyObject) {
+
+        tapCount=tapCount+1
+        if tapCount == 10 {
+                   (self.view.backgroundColor=UIColor.gray)
+        }else if tapCount==15 {
+            (self.view.backgroundColor=UIColor.yellow)
+    }
+    print(tapCount)
+}
+
+
+   
     
 
     override func viewDidLoad() {

@@ -25,6 +25,9 @@
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ah6-Tm-qpo">
                                 <state key="normal" title="Counting Button"/>
+                                <connections>
+                                    <action selector="CountingButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y8W-06-i67"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nick" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yhc-vb-9fr">
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
