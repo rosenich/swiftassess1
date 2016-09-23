@@ -23,6 +23,9 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ah6-Tm-qpo">
+                                <state key="normal" title="Counting Button"/>
+                            </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nick" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yhc-vb-9fr">
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -31,9 +34,11 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="ah6-Tm-qpo" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6ar-zm-Stp"/>
                             <constraint firstItem="yhc-vb-9fr" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="80" id="I9R-2y-Tu3"/>
                             <constraint firstItem="hrq-ZV-eLb" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="N3v-ZS-rNy"/>
                             <constraint firstItem="yhc-vb-9fr" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="TUY-A9-XLE"/>
+                            <constraint firstItem="ah6-Tm-qpo" firstAttribute="top" secondItem="hrq-ZV-eLb" secondAttribute="bottom" constant="100" id="Tzd-F6-hFS"/>
                             <constraint firstItem="hrq-ZV-eLb" firstAttribute="top" secondItem="yhc-vb-9fr" secondAttribute="bottom" constant="50" id="qrz-nw-fSm"/>
                         </constraints>
                     </view>
